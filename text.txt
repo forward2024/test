@@ -1,5 +1,9 @@
 1
 2
+<<<<<<< HEAD
 3
 new line
 new line 2
+=======
+3
+>>>>>>> parent of 0342f02... new line
